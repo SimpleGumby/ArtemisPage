@@ -1,0 +1,46 @@
+@import url(//db.onlinewebfonts.com/c/0b811799540d4b23474c8cd3c9576879?family=FF+Tisa+Sans);
+
+.demo-container {
+  padding: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #c2c1bf;
+}
+
+.screenshot {
+  max-width: 800px;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px rgb(26, 25, 25);
+  transition: 500ms ease-in-out;
+}
+
+.screenshot:hover {
+  width: 1100px;
+  max-width: 1100px;
+}
+
+.screenshot:hover {
+  transform: translateY(-10px) translateX(-10px);
+  box-shadow: 15px 15px 15px rgb(17, 16, 16);
+}
+
+.flex {
+  padding: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.screenshot-text {
+  max-width: 800px;
+  padding: 3rem;
+  text-align: center;
+  font-family: 'FF Tisa Sans';
+  font-size: 34px;
+};

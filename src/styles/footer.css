@@ -1,0 +1,7 @@
+.footerwrapper {
+  padding: 1em;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #c2c1bf;
+}
