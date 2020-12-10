@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Artemis.github.io/static/css/main.a3d52813.chunk.css",
+    "main.js": "/Artemis.github.io/static/js/main.ae9467c3.chunk.js",
+    "main.js.map": "/Artemis.github.io/static/js/main.ae9467c3.chunk.js.map",
+    "runtime-main.js": "/Artemis.github.io/static/js/runtime-main.15354681.js",
+    "runtime-main.js.map": "/Artemis.github.io/static/js/runtime-main.15354681.js.map",
+    "static/js/2.f44e9e1d.chunk.js": "/Artemis.github.io/static/js/2.f44e9e1d.chunk.js",
+    "static/js/2.f44e9e1d.chunk.js.map": "/Artemis.github.io/static/js/2.f44e9e1d.chunk.js.map",
+    "index.html": "/Artemis.github.io/index.html",
+    "static/css/main.a3d52813.chunk.css.map": "/Artemis.github.io/static/css/main.a3d52813.chunk.css.map",
+    "static/js/2.f44e9e1d.chunk.js.LICENSE.txt": "/Artemis.github.io/static/js/2.f44e9e1d.chunk.js.LICENSE.txt",
+    "static/media/artemis-logo.cf8f0bfd.svg": "/Artemis.github.io/static/media/artemis-logo.cf8f0bfd.svg",
+    "static/media/erick.caac561d.png": "/Artemis.github.io/static/media/erick.caac561d.png",
+    "static/media/greg.f7b88e5f.png": "/Artemis.github.io/static/media/greg.f7b88e5f.png",
+    "static/media/gui-1.a02412e7.png": "/Artemis.github.io/static/media/gui-1.a02412e7.png",
+    "static/media/gui-2.92e5738c.png": "/Artemis.github.io/static/media/gui-2.92e5738c.png",
+    "static/media/gui-3.7359c6dc.png": "/Artemis.github.io/static/media/gui-3.7359c6dc.png",
+    "static/media/itag.03df0958.svg": "/Artemis.github.io/static/media/itag.03df0958.svg",
+    "static/media/logo-github.21c7a8d2.svg": "/Artemis.github.io/static/media/logo-github.21c7a8d2.svg",
+    "static/media/logo-linkedin.84551070.svg": "/Artemis.github.io/static/media/logo-linkedin.84551070.svg",
+    "static/media/logo-twitter.a00d9f9b.svg": "/Artemis.github.io/static/media/logo-twitter.a00d9f9b.svg",
+    "static/media/scott.31c6fba5.png": "/Artemis.github.io/static/media/scott.31c6fba5.png",
+    "static/media/stella.95c16b24.png": "/Artemis.github.io/static/media/stella.95c16b24.png",
+    "static/media/taylor.390f1795.png": "/Artemis.github.io/static/media/taylor.390f1795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15354681.js",
+    "static/js/2.f44e9e1d.chunk.js",
+    "static/css/main.a3d52813.chunk.css",
+    "static/js/main.ae9467c3.chunk.js"
+  ]
+}
