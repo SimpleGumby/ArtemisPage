@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ArtemisPage/static/css/main.c2e087d0.chunk.css",
+    "main.js": "/ArtemisPage/static/js/main.e8d2d33f.chunk.js",
+    "main.js.map": "/ArtemisPage/static/js/main.e8d2d33f.chunk.js.map",
+    "runtime-main.js": "/ArtemisPage/static/js/runtime-main.65894c81.js",
+    "runtime-main.js.map": "/ArtemisPage/static/js/runtime-main.65894c81.js.map",
+    "static/js/2.f44e9e1d.chunk.js": "/ArtemisPage/static/js/2.f44e9e1d.chunk.js",
+    "static/js/2.f44e9e1d.chunk.js.map": "/ArtemisPage/static/js/2.f44e9e1d.chunk.js.map",
+    "index.html": "/ArtemisPage/index.html",
+    "static/css/main.c2e087d0.chunk.css.map": "/ArtemisPage/static/css/main.c2e087d0.chunk.css.map",
+    "static/js/2.f44e9e1d.chunk.js.LICENSE.txt": "/ArtemisPage/static/js/2.f44e9e1d.chunk.js.LICENSE.txt",
+    "static/media/artemis-logo.cf8f0bfd.svg": "/ArtemisPage/static/media/artemis-logo.cf8f0bfd.svg",
+    "static/media/erick.caac561d.png": "/ArtemisPage/static/media/erick.caac561d.png",
+    "static/media/greg.f7b88e5f.png": "/ArtemisPage/static/media/greg.f7b88e5f.png",
+    "static/media/gui-1.a02412e7.png": "/ArtemisPage/static/media/gui-1.a02412e7.png",
+    "static/media/gui-2.92e5738c.png": "/ArtemisPage/static/media/gui-2.92e5738c.png",
+    "static/media/gui-3.7359c6dc.png": "/ArtemisPage/static/media/gui-3.7359c6dc.png",
+    "static/media/itag.03df0958.svg": "/ArtemisPage/static/media/itag.03df0958.svg",
+    "static/media/logo-github.21c7a8d2.svg": "/ArtemisPage/static/media/logo-github.21c7a8d2.svg",
+    "static/media/logo-linkedin.84551070.svg": "/ArtemisPage/static/media/logo-linkedin.84551070.svg",
+    "static/media/logo-twitter.a00d9f9b.svg": "/ArtemisPage/static/media/logo-twitter.a00d9f9b.svg",
+    "static/media/scott.31c6fba5.png": "/ArtemisPage/static/media/scott.31c6fba5.png",
+    "static/media/stella.95c16b24.png": "/ArtemisPage/static/media/stella.95c16b24.png",
+    "static/media/taylor.390f1795.png": "/ArtemisPage/static/media/taylor.390f1795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65894c81.js",
+    "static/js/2.f44e9e1d.chunk.js",
+    "static/css/main.c2e087d0.chunk.css",
+    "static/js/main.e8d2d33f.chunk.js"
+  ]
+}
