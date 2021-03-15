@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import Artemis from '../images/artemis-logo.svg';
 import '../styles/title.css';
-
+import Notice from './Notice'
 const Title = () => {
   const [isVisible, setIsVisible] = useState(0);
   setTimeout(() => setIsVisible(1), 7000);
   
   return (
+    <div>
+    <Notice/>
     <div className="title-container">
       <img
         className="artemis-logo"
@@ -20,6 +22,7 @@ const Title = () => {
           Optimization begins with analytics
         </p>
       </div>
+    </div>
     </div>
   );
 };
