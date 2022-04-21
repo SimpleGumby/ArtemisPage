@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/footer.css';
 import twitter from '../images/logo-twitter.svg';
 import itag from '../images/itag.svg';
-
+//fdsfdsfsd
 const Footer = () => {
   return (
     <div className='footerwrapper'>
